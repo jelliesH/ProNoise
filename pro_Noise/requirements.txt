@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+pypr
+wavio
+http://pypi.python.org/packages/source/s/scikits.talkbox/scikits.talkbox-0.2.5.tar.gz
